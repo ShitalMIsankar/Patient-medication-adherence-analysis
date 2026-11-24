@@ -53,13 +53,14 @@ Raw data  ->  Cleaning  ->  Feature engineering & KPIs  ->  SQL analysis  ->  Ex
 ## Key findings
 
 
-<img width="1037" height="562" alt="Screenshot 2026-11-24 153533" src="https://github.com/user-attachments/assets/e8c6dbf1-135f-44c6-9f27-31a8869df703" />
+<img width="1062" height="567" alt="Screenshot 2026-11-24 154035" src="https://github.com/user-attachments/assets/2121757e-bd83-464c-aa5b-795257b4653e" />
+
 
 - Average PDC is **72.8%**, below the 80% clinical adherence threshold; discontinuation is **22.7%**, above a 20% target.
 - **Antipsychotics are the highest-risk class** (about 35% discontinuation, PDC about 58.5%), consistent with the side-effect and stigma pattern common to CNS medications.
 
 
-<img width="1051" height="752" alt="Screenshot 2026-11-24 153553" src="https://github.com/user-attachments/assets/eac7805f-965c-45ce-af12-5875f282c83f" />
+<img width="1088" height="737" alt="Screenshot 2026-11-24 154221" src="https://github.com/user-attachments/assets/37a36786-1b84-47ec-ac2a-e61df6e57f0a" />
 
 - **Antihypertensives perform best** (about 85.6% persistence, PDC about 82.6%) and serve as the internal benchmark.
 - Self-pay and Medicaid patients show weaker adherence, pointing to financial access as a structural root cause.
